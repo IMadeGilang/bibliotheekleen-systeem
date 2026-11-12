@@ -6,4 +6,6 @@
 
 # Bibliotheekleen systeem
 
-I Made Dustin
+Ik heb gemaakt [Dustin]
+
+Ik heb gemaakt [Imade]

@@ -6,8 +6,9 @@
 
 # Bibliotheekleen systeem
 
-Ik heb gemaakt [Dustin]
+## Ik heb gemaakt [Dustin]
 
 Wireframe (nog niet af)
 
-Ik heb gemaakt [Imade]
+
+## Ik heb gemaakt [Imade]

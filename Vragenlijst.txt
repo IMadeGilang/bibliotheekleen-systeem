@@ -1,0 +1,22 @@
+Vragenlijst
+
+Hoe wordt de bibliotheek momenteel beheerd?
+Hoe werkt het uitlenen van boeken momenteel?
+Wat zijn de grootste problemen met het huidige systeem?
+Wie gaat de website gebruiken?
+Is het systeem alleen bedoeld voor docenten of ook voor studenten?
+Welke informatie moet per boek worden opgeslagen? (database tabel)
+Moeten boeken ingedeeld worden in categorieën?
+Moet er gezocht kunnen worden op titel, auteur of ISBN? ('Search' functionaliteit)
+Hoe lang mag iemand een boek lenen?
+Moet het systeem automatisch bijhouden wanneer een boek teruggebracht moet worden?
+Moet het systeem aangeven wanneer een boek te laat is?
+Is het nodig om boeken te kunnen reserveren?
+Moeten studenten een eigen account krijgen?
+Wie mag nieuwe boeken toevoegen of verwijderen?
+Moeten docenten alle uitleenregistraties kunnen bekijken?
+Heeft de school een eigen server waarop de website geplaatst kan worden? (te moeilijk)
+Mag ik Docker gebruiken voor de deployment? (zij begrijpt docker niet)
+Wie gaat de website beheren nadat het project is afgerond?
+Moet de website toegankelijk zijn via het schoolnetwerk of via het internet?
+Zijn er eisen voor het opslaan en beschermen van persoonsgegevens? (user tabel)

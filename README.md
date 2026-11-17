@@ -8,7 +8,11 @@
 
 ## Ik heb gemaakt [Dustin]
 
-Wireframe (nog niet af)
+Wireframe 1 ("Alle boeken" pagina)
+Wireframe 2 (Zijbalk)
 
 
 ## Ik heb gemaakt [Imade]
+
+Database concept
+Vragenlijst (Vragen voor Sietske)

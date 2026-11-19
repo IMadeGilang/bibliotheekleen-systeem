@@ -22,3 +22,9 @@
 - Data in de database opslaan (Accounts, boeken titels, auteurs, datum voor het lenen etc.)
 - Website waar je de boeken kan selecteren en lenen met een vaste datum waar de persoon aan moet houden
 - Accounts met de boeken te koppelen als ze het lenen met een datum
+
+# Planning
+- Sessie 1 Functionaliteiten bespreken en plannen
+- Sessie 2 Samen ontwerpen en ontwikkelen
+- Sessie 3 Verder programmeren en de database-integratie uitvoere
+- Sessie 4 Testen en problemen oplossen

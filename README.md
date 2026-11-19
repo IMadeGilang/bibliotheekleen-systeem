@@ -24,7 +24,8 @@
 - Accounts met de boeken te koppelen als ze het lenen met een datum
 
 # Planning
-- Sessie 1 Functionaliteiten bespreken en plannen
-- Sessie 2 Samen ontwerpen en ontwikkelen
-- Sessie 3 Verder programmeren en de database-integratie uitvoere
-- Sessie 4 Testen en problemen oplossen
+- 19 November: Functionaliteiten bespreken en plannen
+- 24 November: Project plan presenteren
+- 26 November - 8 December: Samen ontwerpen en ontwikkelen
+- 10 December - 12 December: Verder programmeren en de database-integratie uitvoeren
+- 17 December - 19 December: Testen en problemen oplossen

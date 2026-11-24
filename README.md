@@ -18,14 +18,17 @@
 - Vragenlijst (Vragen voor Sietske)
 
 # Functionaliteiten
-- Registratie pagina om accounts te maken en een login om in te loggen op dat account
-- Data in de database opslaan (Accounts, boeken titels, auteurs, datum voor het lenen etc.)
-- Website waar je de boeken kan selecteren en lenen met een vaste datum waar de persoon aan moet houden
-- Accounts met de boeken te koppelen als ze het lenen met een datum
+- Registratie pagina om accounts te maken en een login om in te loggen op dat account (must have)
+- Data in de database opslaan (Accounts, boeken titels, auteurs, datum voor het lenen etc.) (must have)
+- Website waar je de boeken kan selecteren en lenen met een vaste datum waar de persoon aan moet houden (must have)
+- Accounts met de boeken te koppelen als ze het lenen met een datum (could have)
+- 
 
 # Planning
 - 19 November: Functionaliteiten bespreken en plannen
-- 24 November: Project plan presenteren
+- 24 November: Project plan presenteren 
 - 26 November - 8 December: Samen ontwerpen en ontwikkelen
 - 10 December - 12 December: Verder programmeren en de database-integratie uitvoeren
 - 17 December - 19 December: Testen en problemen oplossen
+
+  

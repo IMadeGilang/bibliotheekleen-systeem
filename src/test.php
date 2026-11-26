@@ -5,11 +5,11 @@ $conn = require_once "partials/dbconn.php";
         $boekid = htmlspecialchars(trim($_POST["boek_id"]));
 
         $stmt = $conn->prepare("INSERT INTO lening (student_id, book_id) 
-                                VALUES (?,?,?,?,?,?,?,?)");
+                                VALUES (?,?)");
         $stmt->bind_param("ss", $studentnummer, $boekid);
         $stmt->execute();
         $stmt->close();
-        header("Location: test.php");
+        header("Location: resultaat.php");
         exit;
 
         echo $studentnummer;
